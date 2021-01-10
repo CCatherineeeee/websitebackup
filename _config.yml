@@ -1,5 +1,1 @@
 theme: jekyll-theme-dinky
-name: Yifan Chen (also goes with Catherine)
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-paginate: 10
